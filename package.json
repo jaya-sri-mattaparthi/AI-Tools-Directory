@@ -2,7 +2,7 @@
   "name": "ai-tools-directory",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hanisha25.github.io/ai-tools-directory",
+  "homepage": "https://ai-tools-directory-l6xm.vercel.app/",
   "dependencies": {
     "@heroicons/react": "^2.2.0",
     "@testing-library/dom": "^10.4.0",
