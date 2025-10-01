@@ -75,7 +75,7 @@ The app is built using:
 ## Deployment
 
 The app is deployed on GitHub Pages and can be accessed at:  
-[https://hanisha25.github.io/ai-tools-directory](https://hanisha25.github.io/ai-tools-directory)
+[https://ai-tools-directory-gigw.vercel.app/](https://ai-tools-directory-gigw.vercel.app/)
 
 ## Contributing
 
